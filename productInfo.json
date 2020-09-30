@@ -1,0 +1,16 @@
+[
+  {
+    "brand": "basalite",
+    "name": "bayfield",
+    "code": "rw",
+    "type": "Retaining Wall system",
+    "colors": ["Tan/brown", "gray/Charcoal", "venice", "Positano"],
+    "min": "1/2 pallet",
+
+    "Notes": "Sold in mixed pallet quantities only. Each pallet is 24 of each sie for total 72 pieces, 36 sq. ft/pallet",
+    "blockSizes": "Large: 10in(L) x 18in(W) x 6in(H) /// Medium: 10in(L) x 12in(W) x 6in(H) /// Small: 10in(L) x 6in(W) x 6in(H)",
+    "pg-ref": 47
+  },
+  { "brand": "otherbrand", "name": "testname", "code": "xp" },
+  { "brand": "cool", "name": "TEST2", "code": "ss" }
+]
